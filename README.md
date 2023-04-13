@@ -14,7 +14,7 @@ $ git clone git@github.com:padlocal/wechaty-puppet-padlocal-demo.git
 ```
 Then install Node dependencies.
 ```
-$ cd wechaty-puppet-padlocal-demo
+$ cd wechaty-pittosporum
 $ npm install
 ``` 
 
